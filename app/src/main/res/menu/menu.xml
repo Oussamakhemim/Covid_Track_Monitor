@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/infecte"
+        android:icon="@drawable/ic_inf"
+        android:title="Annoncer être infecté"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/cercle"
+        android:title="Mes cercles"
+        app:showAsAction="never"/>
+    <item android:id="@+id/joincercle"
+        android:title="Rejoindre un cercle"
+        app:showAsAction="never"/>
+    <item android:id="@+id/invite"
+        android:title="Ajouter des amis"
+        app:showAsAction="never"/>
+    <item android:id="@+id/signout"
+        android:title="Se deconnecter"
+        app:showAsAction="never"/>
+
+</menu>

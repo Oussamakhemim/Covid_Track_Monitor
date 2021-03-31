@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777696380591",
+    "project_id": "covidgpstracker",
+    "storage_bucket": "covidgpstracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777696380591:android:23407b68f1a23b436f365a",
+        "android_client_info": {
+          "package_name": "com.example.covidtrackmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777696380591-797ppqthj1tu510j423qq6l2qi7dhqkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EVBoK_SG03h4s9DWTLorLU4NXF-zhvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777696380591-797ppqthj1tu510j423qq6l2qi7dhqkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
